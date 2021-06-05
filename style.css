@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color:aqua;
+}
+.gridimg{
+    transform: scale(0.9);
+}
+
+img{
+    width:400px
+}
